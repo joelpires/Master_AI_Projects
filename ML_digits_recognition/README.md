@@ -1,0 +1,1 @@
+This work is done within the scope of the Computational Learning course. Its purpose is to make an optical character recognition (OCR) program, namely from 0 to 9. Characters will use the knowledge acquired in the theoretical classes on neural networks and Matlab (with Neural Networks Toolbox) to implement OCR .
