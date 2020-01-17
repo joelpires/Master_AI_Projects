@@ -1,0 +1,53 @@
+-------------- KS RESULTS --------------
+testResult (tour10): 0.38031026138301904
+p-value (tour10): 0.00020714827908219213
+testResult (tour50): 0.43905391017150597
+p-value (tour50): 8.79996977132258e-06
+testResult (roulette): 0.44838373192828873
+p-value (roulette): 5.070190466138769e-06
+testResult (sus): 0.33976505559653647
+p-value (sus): 0.0013577877192305632
+
+------------ SHAPIRO RESULTS -----------
+testResult (tour10): 0.981200635433
+p-value (tour10): 0.856505811214
+testResult (tour50): 0.982221364975
+p-value (tour50): 0.881036639214
+testResult (roulette): 0.945886135101
+p-value (roulette): 0.131064146757
+testResult (sus): 0.941488981247
+p-value (sus): 0.0997612401843
+
+---------- HOMOGENEITY RESULTS --------
+testResult: 21.186661483285526
+p-value: 5.157345446254471e-11
+
+------------ KRUSKAL RESULTS ----------
+testResult: 111.57024793388427
+p-value: 5.0394632691027984e-24
+
+--------- MANN WHITNEY RESULTS --------
+
+# tour10 vs tour50 #
+testResult: 0.0
+p-value: 9.059578077486472e-11
+
+# tour10 vs roulette #
+testResult: 900.0
+p-value: 9.059578077486472e-11
+
+# tour10 vs Sus #
+testResult: 900.0
+p-value: 9.059578077486472e-11
+
+# tour50 vs roulette #
+testResult: 900.0
+p-value: 9.059578077486472e-11
+
+# tour50 vs Sus #
+testResult: 900.0
+p-value: 9.059578077486472e-11
+
+# Roulette vs Sus #
+testResult: 0.0
+p-value: 9.059578077486472e-11
