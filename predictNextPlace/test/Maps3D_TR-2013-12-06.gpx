@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="Maps 3D" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<trk>
+<name>Maps3D_TR-2013-12-06</name>
+<extensions>
+<Maps3D:TrackExtensions xmlns:Maps3D="http://www.movingworld.de/xmlschemas/GpxExtensions/v1">
+<Maps3D:RealSpeed>7.175083</Maps3D:RealSpeed>
+<Maps3D:RealSecondsSpent>19</Maps3D:RealSecondsSpent>
+</Maps3D:TrackExtensions>
+</extensions>
+<trkseg>
+<trkpt lat="52.006709" lon="4.361724">
+   <ele>2.934196</ele>
+   <time>2013-12-06T09:44:39Z</time>
+</trkpt>
+<trkpt lat="52.006601" lon="4.361850">
+   <ele>2.718424</ele>
+   <time>2013-12-06T09:44:49Z</time>
+</trkpt>
+<trkpt lat="52.006555" lon="4.361842">
+   <ele>2.683776</ele>
+   <time>2013-12-06T09:44:56Z</time>
+</trkpt>
+<trkpt lat="52.006605" lon="4.361898">
+   <ele>2.669088</ele>
+   <time>2013-12-06T09:45:03Z</time>
+</trkpt>
+<trkpt lat="52.006648" lon="4.361955">
+   <ele>2.638896</ele>
+   <time>2013-12-06T09:45:06Z</time>
+</trkpt>
+<trkpt lat="52.006728" lon="4.361532">
+   <ele>3.000000</ele>
+   <time>2013-12-07T00:08:33Z</time>
+</trkpt>
+<trkpt lat="52.006845" lon="4.361613">
+   <ele>3.000000</ele>
+   <time>2013-12-07T00:08:36Z</time>
+</trkpt>
+<trkpt lat="52.006901" lon="4.361651">
+   <ele>3.000000</ele>
+   <time>2013-12-07T00:08:41Z</time>
+</trkpt>
+</trkseg></trk></gpx>
